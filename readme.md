@@ -15,3 +15,6 @@ yak done shon kange
 
 ## rov
 heroblind
+
+## freefire
+r u o k
